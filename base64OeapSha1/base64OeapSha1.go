@@ -5,7 +5,7 @@ import (
 	"crypto/rsa"
 	"crypto/sha1"
 	"encoding/base64"
-	"github.com/dressc-go/decptors/common"
+	"github.com/dressc-go/decryptors/common"
 	"github.com/dressc-go/zlogger"
 	"github.com/pkg/errors"
 )
