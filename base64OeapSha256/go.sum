@@ -1,4 +1,5 @@
 github.com/coreos/go-systemd/v22 v22.3.3-0.20220203105225-a9a7ef127534/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
+github.com/dressc-go/decryptors/common v0.0.0-20231004111351-e4120e1a4872/go.mod h1:yXex3Q7hYeFLyok6df37LpYU40n62ZW75qompkJA3XM=
 github.com/dressc-go/zlogger v0.0.0-20230514215442-66582730ec37/go.mod h1:HA5NO192m0yqwDfW8RBCsIiQgcFLp78LVdwddRYQi8Q=
 github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
 github.com/mattn/go-colorable v0.1.12 h1:jF+Du6AlPIjs2BiUiQlKOX0rt3SujHxPnksPKZbaA40=
